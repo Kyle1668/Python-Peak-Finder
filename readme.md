@@ -1,5 +1,5 @@
 
-##### Finding a peak value in a single dimensional array with Python.
+#### Finding a peak value in a single dimensional array with Python.
 
 ---
 
