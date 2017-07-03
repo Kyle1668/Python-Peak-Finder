@@ -7,5 +7,8 @@ In the context of a single dimensional array, a value is a peak if and only if i
 
 The head or tail item can be peaks if they’re larger than their neighboring value.
 
+The iterative approach scales in O(n) time while the recursive approach
+scaled in O(log(n)).
+
 Inspired by Mit 6.006
 
