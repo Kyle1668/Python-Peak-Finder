@@ -1,3 +1,4 @@
+
 def get_peak_iteratively(in_nums):
     for element in range(0, len(in_nums) - 1):
         if element == in_nums[0] and element > in_nums[1]:
